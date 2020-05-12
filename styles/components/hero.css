@@ -1,0 +1,21 @@
+.hero {
+  background-color: #282d33;
+  padding: 40px 28px;
+  color: #c9c7c7;
+}
+
+.hero-content {
+  width: 485px;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-weight: 400;
+  margin-bottom: 5px;
+  line-height: 14px;
+}
+
+.hero-subtitle {
+  margin-bottom: 18px;
+  font-size: 18px;
+}

@@ -1,0 +1,13 @@
+.section {
+  padding-bottom: 30px;
+}
+
+.section-title {
+  color: #a5adb8;
+  margin-bottom: 22px;
+}
+
+.section-description {
+  color: #5c646e;
+  margin-bottom: 18px;
+}
